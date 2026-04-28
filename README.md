@@ -2,9 +2,11 @@
 
 Este repositório contém os materiais da palestra apresentada no **AI Conference - 3 Edition 2026 (Brasil)**, com foco na criação de soluções modernas utilizando múltiplos agentes com o **Microsoft Agent Framework** integrado ao **Azure AI Foundry**.
 
-📄 Slides da apresentação:  
-👉 [Acessar PDF](./AI-Conf3Edition-agents-agent-framework.pdf) :contentReference[oaicite:0]{index=0}
+## 📄 Materiais da Apresentação
+📄 Slides :  
 
+- 📕 [Slides em PDF (visualização)](https://github.com/NIZZOLA/AIConf3rdEdition/blob/main/docs/AI-Conf3Edition-agents-agent-framework.pdf)
+- 📊 [Slides em PowerPoint (editável)](https://github.com/NIZZOLA/AIConf3rdEdition/blob/main/docs/AI-Conf3Edition-agents-agent-framework.pptx)
 ---
 
 ## 🎯 Objetivo
