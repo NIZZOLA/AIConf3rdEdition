@@ -1,6 +1,6 @@
 # 🚀 Criando Múltiplos Agentes com Agent Framework + Azure AI Foundry
 
-Este repositório contém os materiais da palestra apresentada no **AI Conference - 3 Edition 2026 (Brasil)**, com foco na criação de soluções modernas utilizando múltiplos agentes com o **Microsoft Agent Framework** integrado ao **Azure AI Foundry**.
+Este repositório contém os materiais da palestra apresentada no **AI Conference - 3 Edition 2026 (Brasil)**, realizada remotamente em 28/04/2026, com foco na criação de soluções modernas utilizando múltiplos agentes com o **Microsoft Agent Framework** integrado ao **Azure AI Foundry**.
 
 Site do evento https://www.aidevconf.com.br/    
 
