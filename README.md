@@ -4,7 +4,7 @@ Este repositório contém os materiais da palestra apresentada no **AI Conferenc
 
 Site do evento https://www.aidevconf.com.br/    
 
-[Agenda] (img/agenda.png)
+[Agenda] (https://github.com/NIZZOLA/AIConf3rdEdition/blob/main/img/agenda.png)
 
 ## 📄 Materiais da Apresentação
 
